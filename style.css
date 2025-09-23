@@ -273,7 +273,7 @@ footer {
   align-items: center;
   justify-content: center;
   background: #a7c95720;
-  color: var(--light-text-color);
+  color: var(--link-text-color);
   border-radius: 8px;
   text-decoration: none;
   transform: translateY(4px)
