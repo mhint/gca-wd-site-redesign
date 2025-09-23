@@ -3,12 +3,12 @@
   --dark-text-color: #3f3f3f;
   --medium-dark-text-color: #d1d5db;
   --light-text-color: #ffffff;
-  --accent-text-color: #cf4c64;
+  --accent-text-color: #c9445d;
   --success-text-color: #447364;
   --fail-text-color: #4a5759;
   --link-text-color: #a7c957;
   --primary-bg: #ebe5da;
-  --secondary-bg: #d7dfd3;
+  --secondary-bg: #dad5ca;
   --navbar-bg: #f8f8f8;
   --footer-bg: #354338;
   --card-bg: #ffffff;
@@ -272,12 +272,12 @@ footer {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: rgba(255,255,255,0.1);
+  background: #a7c95720;
   color: var(--light-text-color);
   border-radius: 8px;
   text-decoration: none;
   transform: translateY(4px)
 }
 .social-icon:hover {
-  background: rgba(255,255,255,0.25);
+  background: #a7c95740;
 }
