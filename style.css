@@ -104,6 +104,12 @@ img {
   color: var(--accent-text-color);
 }
 
+.logo {
+  height: 80px;
+  margin-bottom: 20px;
+  border-radius: 0;
+}
+
 .tagline {
   font-family: "Pacifico", cursive;
   font-size: 1.95rem;
